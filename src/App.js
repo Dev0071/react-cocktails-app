@@ -19,7 +19,7 @@ function App() {
           element={<Home />}
         />
         <Route
-          path='/About'
+          path='/about'
           element={<About />}
         />
         <Route
